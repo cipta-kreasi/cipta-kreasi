@@ -23,7 +23,7 @@ Dikembangkan oleh **PT. Hes Cipta Kreasi**, lakuKan hadir sebagai solusi digital
 
 ---
 
-## ✨ Kenapa harus di aplikasilakuKan?
+## ✨ Kenapa harus di aplikasi lakuKan?
 
 <div align="center">
 
