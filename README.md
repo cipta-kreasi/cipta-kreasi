@@ -1,8 +1,6 @@
 # lakuKan Indonesia
 
-<p align="center">
-  <img src="[Rectangle-4.png](https://company.lakukan.co.id/wp-content/uploads/2021/04/iPhone-12-Pro-6.png)" alt="lakuKan Banner" width="100%" />
-</p>
+
 
 <p align="center">
   <b>Semua Bisa di lakuKan</b><br/>
